@@ -1,0 +1,5 @@
+# File extensions
+*.csv
+
+# Special folders
+__pycache__
